@@ -1,5 +1,5 @@
 {
-  "name": "lazyuu/love-interface",
+  "name": "lazyuu/interface",
   "keywords": [
     "php",
     "rpc",
@@ -15,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "LoveInterface\\": "src"
+      "Lazyuu\\Interface\\": "src"
     }
   },
   "minimum-stability": "dev",
